@@ -1,0 +1,30 @@
+9780134670942 
+Introduction to Java Programming and Data Structures, Comprehensive Version 11th Edition
+Daniel Liang
+1285741552
+Calculus: Early Transcendentals 8th Edition
+James Stewart
+1516583213
+Essential Computational Thinking: Computer Science from Scratch
+Ricky J. Sethi
+1634876733
+Introduction to Computer Science
+Perry Donham
+007351215X
+Physics 3rd Edition
+Alan Giambattista
+1260091996
+Discrete Mathematics and Its Applications Eighth Edition
+Kenneth Rosen
+149207294X
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python 2nd Edition
+Peter Bruce
+0486813711
+Classical Electromagnetism: Second Edition (Dover Books on Physics) 2nd Edition
+Jerrold Franklin
+1788990552
+Mastering Linux Shell Scripting: A practical guide to Linux command-line, Bash scripting, and Shell programming, 2nd Edition 2nd edition
+Mokhtar Ebrahim
+1593279280
+Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming 2nd Edition
+Eric Matthes
